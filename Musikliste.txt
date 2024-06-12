@@ -1,5 +1,6 @@
-schelechte Lied 1
+gut Lied 1
 
-schelechte Lied 2
+gut Lied 2
 
-schelechte Lied 3
+gut Lied 3
+
